@@ -1,4 +1,4 @@
-http/github.com/SamiSh81/MULTIE_PIE_GRAPH
+https://github.com/SamiSh81/MULTIE_PIE_GRAPH
 
 ausamashahmani@gmail.com
 
